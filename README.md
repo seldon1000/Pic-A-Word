@@ -1,7 +1,7 @@
 # Pic-A-Word
 A simple cross-platform pictionary-like game in Swift, which runs on tvOS and iOS.
 
-The idea is that the TV screen acts as a server for the multipeer connectivity. Players connects to the TV with their iPhones and then the game starts. One player draws, the others have to guess the word. The draw will be displayed on the TV so that everyone in the room will see it.
+The idea is that the TV screen acts as a server for the multipeer connectivity. Players connects to the TV with their iPhones and then the game starts. One player draws, the others have to guess the word. The drawing will be displayed on the TV so that everyone in the room will see it.
 
 # NOTES
 *The project is unfinished, and probably it will stay this way for some time.*
